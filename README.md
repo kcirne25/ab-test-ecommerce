@@ -23,5 +23,5 @@ There are 2 datasets that will be analyzed: ab_data and countries. The databases
 
 ## References
 
-- Markdown cells: https://jupyter-notebook.readthedocs.io/ \n
+- Markdown cells: https://jupyter-notebook.readthedocs.io/
 - Ztest Function: severall references from https://stackoverflow.com/ 
