@@ -20,3 +20,8 @@ THe project has a brief introduction and has a statistical analysis with probabi
 ## Datasets
 
 There are 2 datasets that will be analyzed: ab_data and countries. The databases are in csv format, have more than 290k rows and were downloaded through Udacity's website. 
+
+## References
+
+Markdown cells: https://jupyter-notebook.readthedocs.io/
+Ztest Function: severall references from https://stackoverflow.com/ 
