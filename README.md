@@ -1,7 +1,7 @@
 # A/B Test: E-commerce data
 
 This project aims to analyze data from an E-commerce dataset with a statistical approach. Through the project it is analyzed if a company should implement a new website
-page, keep the old page, or perhaps run the experiment longer to make their decision
+page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## Datasets
 
