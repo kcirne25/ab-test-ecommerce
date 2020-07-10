@@ -29,5 +29,5 @@ The results showed that the company should keep the old webpage (failed to rejec
 
 ## References
 
-- [Markdown cells] (https://jupyter-notebook.readthedocs.io/)
-- Severall references from [Ztest Function] (https://stackoverflow.com/)
+- [Markdown cells](https://jupyter-notebook.readthedocs.io/)
+- Severall references from [Ztest Function](https://stackoverflow.com/)
